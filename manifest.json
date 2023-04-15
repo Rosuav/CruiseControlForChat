@@ -7,7 +7,7 @@
 	"content_scripts": [
 		{
 			"matches": ["https://*.twitch.tv/*"],
-			"css": ["capschat.css"],
+			"css": ["capschat.css"]
 		}
 	]
 }
